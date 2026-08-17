@@ -1,36 +1,18 @@
-<h1 align="left">Hi, I'm Krishnakant 👋</h1>
+# 💫 About Me:
+Hey, I'm Krishnakant Rout — a Full-Stack Developer working with the MERN stack (MongoDB, Express, React, Node.js). I actively practice DSA to sharpen my problem-solving, and previously worked as a freelance developer building real client projects.
 
-Frontend Developer building fast, accessible interfaces with **React**, **TypeScript** and **Tailwind**.
 
-- 🔭 Sharpening full-stack fundamentals through Sheriyans Coding School's Kodr Bootcamp
-- 🎯 Actively applying for Frontend Developer roles at product companies & startups
-- 📍 Based in Mumbai
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnakantrout1506@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sid-1506&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sid-1506&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sid-1506&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### Stack
+---
+[![](https://komarev.com/ghpvc/?username=sid-1506&icon=0&color=0)](https://visitcount.itsvg.in)
 
-| Area | Tools |
-|---|---|
-| Frontend | React · TypeScript · Tailwind CSS · Next.js |
-| Backend / Tools | Node.js · Express · Supabase |
-
-<br>
-
-### Projects
-
-**[AgriSmart](https://github.com/sid-1506/agrismart)**
-Intelligent agriculture assistant platform with speech-to-text support, helping farmers with smart crop and farming guidance.
-
-**[Ravariya Green Energy](https://github.com/sid-1506/ravariya)**
-A web platform for a green/renewable energy business, built to showcase services and generate leads online.
-
-**Portfolio** — [krishnakantrout.vercel.app](https://krishnakantrout.vercel.app)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sid-1506&show_icons=true&theme=dark&hide_border=true&count_private=true" width="420" alt="GitHub stats" />
-
-<br>
-
-📫 Reach me at [krishnakantrout.vercel.app](https://krishnakantrout.vercel.app)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
