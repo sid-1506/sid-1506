@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishnakant+Rout;Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Supabase" alt="Typing SVG" />
 </div>
 
-<h3 align="center">A Full-Stack Developer from Mumbai, India</h3>
+<h3 align="center">The Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sid-1506&label=Profile%20views&color=0e75b6&style=flat" alt="sid-1506" />
@@ -10,7 +10,7 @@
 
 ---
 
-### 💫 About Me
+### About
 
 Hey, I'm **Krishnakant Rout** — a Full-Stack Developer working with the **MERN stack** (MongoDB, Express, React, Node.js). I actively practice DSA to sharpen my problem-solving, and previously worked as a freelance developer building real client projects.
 
