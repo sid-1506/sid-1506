@@ -14,16 +14,14 @@
 
 Hey, I'm **Krishnakant Rout** — a Full-Stack Developer working with the **MERN stack** (MongoDB, Express, React, Node.js). I actively practice DSA to sharpen my problem-solving, and previously worked as a freelance developer building real client projects.
 
-- 🔭 I’m currently working on **Next.js & AI-powered web apps**
-- 🌱 I’m currently learning **System Design & Cloud**
-- 👯 I’m looking to collaborate on **open-source and freelance projects**
-- 💬 Ask me about **React, TypeScript, Tailwind, Node.js, Supabase**
-- 📫 Reach me at **krishnakant.rout.dev@gmail.com**
-- ⚡ Fun fact: **I shipped 3 live projects as a freelance dev**
+- working on **Next.js & AI-powered web apps**
+- learning **System Design & Cloud**
+- looking to collaborate on **open-source and freelance projects**
+- Reach me at **krishnakantrout1506@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://twitter.com/KrishnakantRout" target="blank">
